@@ -7,9 +7,9 @@ To visit the website, go to "https://students.cs.byu.edu/~pjohnst5/Portfolio/pro
 The site uses CSS Grid for all pages.
 
 
-**Web design principles used**
+Web design principles used include:
 * Spacing
-- [ ] Typography
-- [ ] Graphics
-- [ ] Color 
-- [ ] Consistency 
+* Typography
+* Graphics
+* Color 
+* Consistency 
