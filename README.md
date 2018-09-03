@@ -1,4 +1,4 @@
-Git repo for x97 Radio Station
+#Git repo for x97 Radio Station
 
 This is a creative project which mimics a radio station's website using a open source lyrics API.
 
@@ -8,8 +8,8 @@ The site uses CSS Grid for all pages.
 
 
 Web design principles used in this project include:
-Spacing
-Typography
-Graphics
-Color 
-Consistency 
+- [ ] Spacing
+- [ ] Typography
+- [ ] Graphics
+- [ ] Color 
+- [ ] Consistency 
